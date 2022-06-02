@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/circleci/circleci-docs/tree/teesloane-patch-5.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs/?branch=teesloane-patch-5)
+[![CircleCI](https://circleci.com/gh/LeTanHai/Project4-ML.svg?style=shield)](https://app.circleci.com/pipelines/github/LeTanHai/Project4-ML?filter=all)
 
 ## Project Overview
 
