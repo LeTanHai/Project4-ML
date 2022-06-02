@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/LeTanHai/Project4-ML.svg?style=shield)](https://app.circleci.com/pipelines/github/LeTanHai/Project4-ML?filter=all)
+[![CircleCI](https://circleci.com/docs/assets/img/docs/svg-passed.png)](https://app.circleci.com/pipelines/github/LeTanHai/Project4-ML?filter=all)
 
 ## Project Overview
 
